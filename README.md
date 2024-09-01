@@ -57,7 +57,7 @@ git clone https://github.com/VishalPrasanna11/Airbnb-Clone.git
 
 1. Navigate to the frontend directory:
     ```bash
-    cd frontend
+    cd client
     ```
 
 2. Install dependencies and start the Angular application:
@@ -69,7 +69,7 @@ git clone https://github.com/VishalPrasanna11/Airbnb-Clone.git
 ## Project Structure
 
 - **Backend**: Contains the Spring Boot application, business logic, REST APIs, and database interactions.
-- **Frontend**: Contains the Angular application with user interfaces, client-side logic, and PrimeNG components.
+- **Client**: Contains the Angular application with user interfaces, client-side logic, and PrimeNG components.
 
 ## Configuration
 
