@@ -1,4 +1,4 @@
-package airbnbclone.backend.listing.domin;
+package airbnbclone.backend.listing.domain;
 
 import airbnbclone.backend.sharedkernel.domain.AbstractAuditingEntity;
 import jakarta.persistence.*;

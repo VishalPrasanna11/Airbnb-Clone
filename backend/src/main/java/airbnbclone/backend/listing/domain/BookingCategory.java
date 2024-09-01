@@ -1,4 +1,4 @@
-package airbnbclone.backend.listing.domin;
+package airbnbclone.backend.listing.domain;
 
 public enum BookingCategory {
     ALL,
